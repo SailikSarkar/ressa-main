@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ressa-main/static/css/main.eb129b7d.css",
+    "main.js": "/ressa-main/static/js/main.c1ab23b3.js",
+    "static/js/787.435e8f9a.chunk.js": "/ressa-main/static/js/787.435e8f9a.chunk.js",
+    "static/media/logo.svg": "/ressa-main/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ressa-main/index.html",
+    "main.eb129b7d.css.map": "/ressa-main/static/css/main.eb129b7d.css.map",
+    "main.c1ab23b3.js.map": "/ressa-main/static/js/main.c1ab23b3.js.map",
+    "787.435e8f9a.chunk.js.map": "/ressa-main/static/js/787.435e8f9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb129b7d.css",
+    "static/js/main.c1ab23b3.js"
+  ]
+}
